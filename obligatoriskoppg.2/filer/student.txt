@@ -1,0 +1,4 @@
+SP;Stian;Pedersen;IT1
+MJ;Marius;Johansen;IT1
+PJ;Per;Jonsrud;IT2
+JK;Jakob;Olsen;IT3

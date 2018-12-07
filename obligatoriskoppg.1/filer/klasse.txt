@@ -1,0 +1,3 @@
+IT1;IT og informasjonssystemer 1. år
+IT2;IT og informasjonssystemer 2. år
+IT3;IT og informasjonssystemer 3. år

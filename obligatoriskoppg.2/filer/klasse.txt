@@ -1,0 +1,4 @@
+IT1;IT og informasjonssystemer 1. året
+IT2;IT og informasjonssystemer 2. året
+IT3;IT og informasjonssystemer 3. året
+IT4;IT og informasjonssystemer 4. året

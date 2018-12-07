@@ -1,0 +1,101 @@
+body  {
+	font: 100% Verdana, Arial, Helvetica, sans-serif;
+	background: #FFFFFF;
+	margin: 0; 
+	padding: 0;
+	text-align: center;
+	color: #000000;
+}
+
+header { 
+	background: #CCCCCC;  /* bakgrunnsfarge */
+	padding: 0 15px;  /* topp-padding og venstre-padding */
+
+} 
+
+article {
+	margin: 0 1.5em 0 12em;
+}
+
+footer { 
+	background: #CCCCCC;  /* bakgrunnsfarge */
+	padding: 0 15px;  /* topp-padding og venstre-padding */
+}
+
+.styling #boks { 
+	background: #FFFFFF; /* bakgrunnsfarge */
+	margin: 0 auto; /* marger */
+	border: 0px #000000; /* bordertykkelse 0 */
+	text-align: left; /* venstrejustert tekst */
+} 
+
+.styling header h1 {
+	margin: 0; /* ingen marg rundt toppen */
+	padding: 10px 0; /* topp-padding og venstre-padding */
+}
+
+ul {
+    float: left;
+    margin-top: auto;
+    margin-bottom: auto;
+    list-style-type: none;
+    padding: 0px;
+    width: 200px;
+    background-color: #f1f1f1;
+}
+
+li a {
+    display: block;
+    color: #000;
+    padding: 10px 16px;
+    text-decoration: none;
+}
+
+li a.active {
+    background-color: #0C3546;
+    color: white;
+}
+
+li a:hover:not(.active) {
+    background-color: #555;
+    color: white;
+}
+
+h1 {
+    font-size: 300%;
+    text-align: left;
+    font-family: 'Patrick Hand', cursive;
+    text-transform: uppercase;
+    color: #313131;
+}
+
+h3 {
+    font-size: 200%;
+    line-height: 0;
+    margin-left: 0.3em; /* venstremarg i menyen */
+    font-family: 'Patrick Hand', cursive;
+    text-transform: uppercase;
+    color: #0C3546;
+}
+
+p {
+    font-size: 20px;
+    line-height: 0.2;
+    font-family: 'Patrick Hand', cursive;
+	margin-left: 0.5em; /* venstremarg i menyen */
+	margin-right: 1em;  /* høyremarg i menyen */
+	color: #0C3546;
+}
+
+
+.styling footer h5 {
+	margin: 0; /* ingen marg rundt bunnen */
+	padding: 10px 0; /* topp-padding og venstre-padding */
+}
+
+.clearfloat { /* this class should be placed on a div or break element and should be the final element before the close of a container that should fully contain a float */
+	clear:both;
+    height:0;
+    font-size: 1px;
+    line-height: 0px;
+}
